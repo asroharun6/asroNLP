@@ -17,6 +17,6 @@ AsroNLP is a comprehensive Python library designed for text preprocessing, stemm
 To install AsroNLP, run the following command:
 
 ```bash
-pip install AsroNLP
+pip install AsroNLP==0.1.3
 
 ```
