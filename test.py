@@ -1,4 +1,4 @@
-from asronlp import AsroNLP  # Adjust the import statement according to your file and class name
+from asro_nlp import AsroNLP  # Adjust the import statement according to your file and class name
 
 def main():
     # Create an instance of AsroNLP
