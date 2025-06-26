@@ -1,4 +1,4 @@
-```
+
 # AsroNLP
 
 AsroNLP is a comprehensive Python library designed for text preprocessing, stemming, and sentiment analysis, specifically tailored for Bahasa Indonesia.
@@ -19,7 +19,6 @@ To install AsroNLP, run the following command:
 ```bash
 pip install AsroNLP==0.1.3
 
-```
 pip install nltk pandas openpyxl matplotlib swifter rich wordcloud Sastrawi packaging
 
 latest one
